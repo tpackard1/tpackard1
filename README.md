@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tpackard1
 - 👀 I’m interested in computer science, data and machine learning
-- 🌱 I’m currently learning how to crawl on github and just about everything else
 - 💞️ I’m looking to collaborate on just about any project
 - 📫 How to reach me ...
 
